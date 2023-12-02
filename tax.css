@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(60, 60, 69);
+}
+
+table{
+    color:#fff;
+    margin-left: 35%;
+    font-size: large;
+}
+
+h2{
+    color: #fff;
+    margin-left: 42%;
+}
+
+button {
+    color: black;
+}
+
+input {
+    margin-left: 40%;
+}
